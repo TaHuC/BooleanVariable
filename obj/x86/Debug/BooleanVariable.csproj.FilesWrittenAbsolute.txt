@@ -1,0 +1,5 @@
+/Users/TaHuC/Projects/BooleanVariable/BooleanVariable/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/BooleanVariable/BooleanVariable/bin/Debug/BooleanVariable.exe.mdb
+/Users/TaHuC/Projects/BooleanVariable/BooleanVariable/bin/Debug/BooleanVariable.exe
+/Users/TaHuC/Projects/BooleanVariable/BooleanVariable/obj/x86/Debug/BooleanVariable.exe
+/Users/TaHuC/Projects/BooleanVariable/BooleanVariable/obj/x86/Debug/BooleanVariable.exe.mdb
